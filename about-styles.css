@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+  text-align: center;
+}
+a:hover{
+  color: #967343;
+}
+a:link{
+  color: #968772;
+}
+.nav-items{
+  color: #131511;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #6e5a10;
+}
+main{
+  line-height: 2;
+  background-color: #f2f1e8;
+
+}
+
+h1 {
+  text-align: center;
+}
+.container{
+  padding: 0px 175px 0px 175px;
+}
+.birdhouse{
+    float: left;
+    padding: 11px 20px 10px 0px;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.quote{
+  padding-left: 20px;
+  border-left: 1px solid #6e5a40;
+}
+
+
+.cacti{
+  background-image: url("./images/optimized/background-3.jpg");
+  height: 225px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.coffee-mugs{
+  float: right;
+  margin-left: 30px;
+}
+.pic-text{
+  color: white;
+  text-align: center;
+  padding-top: 45px;
+  font-size: 4em;
+}
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+td{
+  border: 1px solid black;
+  padding-left: 10px;
+
+}
+.tablehead{
+  padding: 0px 175px 0px 175px;
+}
+
+footer{
+  background-color: #6e5a40;
+  color: #f2f1e8;
+  padding: 20px 0px 20px 10px;
+}

@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+  text-align: center;
+}
+a:hover{
+  color: #967343;
+}
+a:link{
+  color: #968772;
+}
+.nav-items{
+  color: #131511;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+}
+.backdrop{
+  background-image: url("./images/optimized/background-2.jpg");
+  height: 700px;
+  background-size: cover;
+}
+.sign-up{
+  background-color: white;
+  height: 300px;
+  width: 550px;
+  border: 1px solid black;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input{
+  border: 0;
+  border-bottom: 1px solid #968772;
+  height: 30px;
+  width: 475px;
+  font-size: 1em;
+  padding: 22px 0px 22px 0px;
+}
+button{
+  background-color: #968772;
+  color: #F2F1E8;
+  height: 75px;
+  width: 100px;
+}
+
+
+footer{
+  background-color: #6e5a40;
+  color: #f2f1e8;
+  padding: 20px 0px 20px 10px;
+}
